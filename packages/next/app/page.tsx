@@ -1,3 +1,4 @@
+// If you do not use force-dynamic, fetch requests will be memoized.
 export const dynamic = "force-dynamic";
 
 export default async function Home() {
